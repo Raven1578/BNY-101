@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Courier", monospace;
+  background-color: black;
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  padding: 20px;
+  overflow: hidden;
+}
+
+#prompt, #prompt2, #prompt3 {
+  color: #00ff00;
+  font-size: 18px;
+  margin: 0;
+  white-space: nowrap;
+}
+
+#user-input {
+  width: 100%;
+  background-color: black;
+  color: #00ff00;
+  font-family: "Courier", monospace;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  padding: 5px;
+  margin-top: 5px;
+  caret-color: #00ff00;
+  resize: none;
+  white-space: nowrap;
+}
+
+#user-input::placeholder {
+  color: #00ff00;
+  font-family: "Courier", monospace;
+}
+
+#response {
+  color: #00ff00;
+  margin-top: 10px;
+  font-size: 18px;
+  white-space: pre-wrap;
+  font-family: "Courier", monospace;
+  word-wrap: break-word;
+}
