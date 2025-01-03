@@ -1,7 +1,8 @@
 const userMessages = {
-"Lucy": `Dear Yosmar,\n\nHappy Birthday tol, Godbless sayo and ir family and more birthdays to come. Valo na agad tol wag kana mag celebrate\n\n
+"Lucy": `Dear Lucy,\n\nHappy Birthday tol, Godbless sayo and ir family and more birthdays to come. Valo na agad tol wag kana mag celebrate\n\n
 HAHAHAHAHA\n\n
 Goodluck sa school just so u know im rooting for you!!\n\n
+Happy birthday uli tol\n\n
 \n\nBest regards,\nRaven.`,
   
   "Yosmar": `Dear Yosmar,\n\nHappy Birthday bro i know we havent talk for like a year but maaaan i still love you (no homo).
