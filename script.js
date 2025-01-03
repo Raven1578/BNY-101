@@ -1,4 +1,9 @@
 const userMessages = {
+"Lucy": `Dear Yosmar,\n\nHappy Birthday tol, Godbless sayo and ir family and more birthdays to come. Valo na agad tol wag kana mag celebrate\n\n
+HAHAHAHAHA\n\n
+Goodluck sa school just so u know im rooting for you!!\n\n
+\n\nBest regards,\nRaven.`,
+  
   "Yosmar": `Dear Yosmar,\n\nHappy Birthday bro i know we havent talk for like a year but maaaan i still love you (no homo).
 Remember that even if we dont talk for a year or so youll still have a special place in ma heart.\n\nI hope your relationship with Angel last forever, im always rooting for you guys.
 You guys made me belive in love again and im thankful for that, sorry if i could not give you any expensive gift for christmas or your birthday.
